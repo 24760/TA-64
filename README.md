@@ -60,7 +60,7 @@
 	Rem git clone --depth 1 https://github.com/247i/WinMerge-64 உரை_சாளரஒன்றிணை-64
 
 # யாராவது Azhagi ரிப்போசிட்டரியில் மாற்றம் செய்து, அதை நீங்கள் அழகி+ ஃபோல்டரில் புதுப்பிக்க விரும்பினால்:
-git subtree pull --prefix=அழகி+ https://github.com/247i/Azhagi.git main --squash
+git subtree pull --prefix=அழகி https://github.com/247i/Azhagi.git முதன்மை --squash
 
 # நீங்கள் பிரதான ரிப்போசிட்டரியில் உள்ள அழகி+ ஃபோல்டருக்குள் வேலை செய்து கமிட் செய்த மாற்றங்களை அசல் லிங்கிற்கு அனுப்ப
-git subtree push --prefix=அழகி+ https://github.com/247i/Azhagi.git main
+git subtree push --prefix=அழகி https://github.com/247i/Azhagi.git முதன்மை
