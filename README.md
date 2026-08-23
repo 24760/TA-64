@@ -3,15 +3,14 @@
 
 # பின்னணி
 git subtree add --prefix=.பிணை07-64 https://github.com/247i/.net07-64 முதன்மை --squash
-Rem git clone --depth 1 https://github.com/247i/.net08-64 உரை_புள்ளிப்பிணை08-64
-Rem git clone --depth 1 https://github.com/247i/.net09-64 உரை_புள்ளிப்பிணை09-64
-Rem git clone --depth 1 https://github.com/247i/.net10-64 உரை_புள்ளிப்பிணை10-64
-Rem git clone --depth 1 https://github.com/247i/.net11-64 உரை_புள்ளிப்பிணை11-64
-Rem git clone --depth 1 https://github.com/247i/7z-64 சூழல்பட்டி_7ஃ-64
-Rem git clone --depth 1 https://github.com/247i/AIMP-64 ஊடகம்_ஆஇஊஇ-64
-Rem git clone --depth 1 https://github.com/247i/AudaCity-64 ஊடகம்_ஆடாசிட்டி-64
+git subtree add --prefix=.பிணை08-64 https://github.com/247i/.net08-64 முதன்மை --squash
+git subtree add --prefix=.பிணை09-64 https://github.com/247i/.net09-64 முதன்மை --squash
+git subtree add --prefix=.பிணை10-64 https://github.com/247i/.net10-64 முதன்மை --squash
+git subtree add --prefix=.பிணை11-64 https://github.com/247i/.net11-64 முதன்மை --squash
+git subtree add --prefix=7ஃ-64 https://github.com/247i/7z-64  முதன்மை --squash
+git subtree add --prefix=ஆஇஊஇ-64 https://github.com/247i/AIMP-64  முதன்மை --squash
+git subtree add --prefix=ஆடாசிட்டி-64 https://github.com/247i/AudaCity-64  முதன்மை --squash
 git subtree add --prefix=அழகி https://github.com/247i/Azhagi.git முதன்மை --squash
-
 git subtree add --prefix=தசைஉரை https://github.com/247i/Beeftext முதன்மை --squash
 git subtree add --prefix=திரைப்பலகதுடிப்பு https://github.com/247i/DesktopTicker.git முதன்மை --squash
 git subtree add --prefix=அகராதிகாம் https://github.com/247i/Dicom.git முதன்மை --squash
