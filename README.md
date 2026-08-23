@@ -27,7 +27,7 @@
 - git subtree add --prefix=இலக்கியவாதி https://github.com/247i/Listary.git முதன்மை --squash
 - git subtree add --prefix=சொற்றொடர்வெளிப்படுத்து https://github.com/247i/PhraseExpress.git முதன்மை --squash
 - git subtree add --prefix=பொருள் https://github.com/247i/Porul.git முதன்மை --squash
-- git subtree add --prefix=வானொலிஉறுதி https://github.com/247i/RadioSure
+- git subtree add --prefix=வானொலிஉறுதி https://github.com/247i/RadioSure முதன்மை --squash
 - git subtree add --prefix=வழி https://github.com/247i/Skype.git முதன்மை --squash
 - git subtree add --prefix=வழி7 https://github.com/247i/Skype7.git முதன்மை --squash
 - git subtree add --prefix=அடிகள்+ https://github.com/247i/StrokesPlus.git முதன்மை --squash
