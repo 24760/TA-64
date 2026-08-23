@@ -25,6 +25,7 @@
 - git subtree add --prefix=இனியதமிழ் https://github.com/247i/IniyaTamil.git முதன்மை --squash
 - git subtree add --prefix=குறள் https://github.com/247i/Kural.git முதன்மை --squash
 - git subtree add --prefix=இலக்கியவாதி https://github.com/247i/Listary.git முதன்மை --squash
+- git subtree add --prefix=குகூகூ-64 https://github.com/247i/NPP-64 முதன்மை --squash
 - git subtree add --prefix=சொற்றொடர்வெளிப்படுத்து https://github.com/247i/PhraseExpress.git முதன்மை --squash
 - git subtree add --prefix=பொருள் https://github.com/247i/Porul.git முதன்மை --squash
 - git subtree add --prefix=வானொலிஉறுதி https://github.com/247i/RadioSure முதன்மை --squash
