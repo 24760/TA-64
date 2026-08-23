@@ -17,7 +17,7 @@
 - git subtree add --prefix=திரைப்பலகதுடிப்பு https://github.com/247i/DesktopTicker முதன்மை --squash
 - git subtree add --prefix=சித்திரம் https://github.com/247i/Dia முதன்மை --squash
 - git subtree add --prefix=அகராதிகாம் https://github.com/247i/Dicom முதன்மை --squash
-- git subtree add --prefix=மேற்படியே https://github.com/247i/Ditto-64 முதன்மை --squash
+- git subtree add --prefix=மேற்படியே-64 https://github.com/247i/Ditto-64 முதன்மை --squash
 - git subtree add --prefix=டிஒத்திசை https://github.com/247i/DSynchronize.git முதன்மை --squash
 - git subtree add --prefix=எல்லாம் https://github.com/247i/Everything-64 முதன்மை --squash
 - git subtree add --prefix=உரைவிரிவாக்கி https://github.com/247i/Espanso.git முதன்மை --squash
