@@ -12,6 +12,7 @@
 - git subtree add --prefix=ஆடாசிட்டி-64 https://github.com/247i/AudaCity-64  முதன்மை --squash
 - git subtree add --prefix=அழகி https://github.com/247i/Azhagi.git முதன்மை --squash
 - git subtree add --prefix=தசைஉரை https://github.com/247i/Beeftext முதன்மை --squash
+- git subtree add --prefix=பின்னணிகுறள் https://github.com/247i/BGKural முதன்மை --squash
 - git subtree add --prefix=திரைப்பலகதுடிப்பு https://github.com/247i/DesktopTicker.git முதன்மை --squash
 - git subtree add --prefix=அகராதிகாம் https://github.com/247i/Dicom.git முதன்மை --squash
 - git subtree add --prefix=மேற்படியே https://github.com/247i/Ditto.git முதன்மை --squash
