@@ -19,7 +19,7 @@
 - git subtree add --prefix=அகராதிகாம் https://github.com/247i/Dicom.git முதன்மை --squash
 - git subtree add --prefix=மேற்படியே https://github.com/247i/Ditto.git முதன்மை --squash
 - git subtree add --prefix=டிஒத்திசை https://github.com/247i/DSynchronize.git முதன்மை --squash
-- git subtree add --prefix=எல்லாம் https://github.com/247i/Everything.git முதன்மை --squash
+- git subtree add --prefix=எல்லாம் https://github.com/247i/Everything-64 முதன்மை --squash
 - git subtree add --prefix=உரைவிரிவாக்கி https://github.com/247i/Espanso.git முதன்மை --squash
 - git subtree add --prefix=ஊட்டிஉருளை https://github.com/247i/FeedRoller.git முதன்மை --squash
 - git subtree add --prefix=இனியதமிழ் https://github.com/247i/IniyaTamil.git முதன்மை --squash
