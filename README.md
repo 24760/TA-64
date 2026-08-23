@@ -2,39 +2,39 @@
 தமிழ் பயன்பாடுகள் 64 இருமம்
 
 # பின்னணி
-git subtree add --prefix=.பிணை07-64 https://github.com/247i/.net07-64 முதன்மை --squash
-git subtree add --prefix=.பிணை08-64 https://github.com/247i/.net08-64 முதன்மை --squash
-git subtree add --prefix=.பிணை09-64 https://github.com/247i/.net09-64 முதன்மை --squash
-git subtree add --prefix=.பிணை10-64 https://github.com/247i/.net10-64 முதன்மை --squash
-git subtree add --prefix=.பிணை11-64 https://github.com/247i/.net11-64 முதன்மை --squash
-git subtree add --prefix=7ஃ-64 https://github.com/247i/7z-64  முதன்மை --squash
-git subtree add --prefix=ஆஇஊஇ-64 https://github.com/247i/AIMP-64  முதன்மை --squash
-git subtree add --prefix=ஆடாசிட்டி-64 https://github.com/247i/AudaCity-64  முதன்மை --squash
-git subtree add --prefix=அழகி https://github.com/247i/Azhagi.git முதன்மை --squash
-git subtree add --prefix=தசைஉரை https://github.com/247i/Beeftext முதன்மை --squash
-git subtree add --prefix=திரைப்பலகதுடிப்பு https://github.com/247i/DesktopTicker.git முதன்மை --squash
-git subtree add --prefix=அகராதிகாம் https://github.com/247i/Dicom.git முதன்மை --squash
-git subtree add --prefix=மேற்படியே https://github.com/247i/Ditto.git முதன்மை --squash
-git subtree add --prefix=டிஒத்திசை https://github.com/247i/DSynchronize.git முதன்மை --squash
-git subtree add --prefix=எல்லாம் https://github.com/247i/Everything.git முதன்மை --squash
-git subtree add --prefix=உரைவிரிவாக்கி https://github.com/247i/Espanso.git முதன்மை --squash
-git subtree add --prefix=ஊட்டிஉருளை https://github.com/247i/FeedRoller.git முதன்மை --squash
-git subtree add --prefix=இனியதமிழ் https://github.com/247i/IniyaTamil.git முதன்மை --squash
-git subtree add --prefix=குறள் https://github.com/247i/Kural.git முதன்மை --squash
-git subtree add --prefix=இலக்கியவாதி https://github.com/247i/Listary.git முதன்மை --squash
-git subtree add --prefix=சொற்றொடர்வெளிப்படுத்து https://github.com/247i/PhraseExpress.git முதன்மை --squash
-git subtree add --prefix=பொருள் https://github.com/247i/Porul.git முதன்மை --squash
-git subtree add --prefix=வழி https://github.com/247i/Skype.git முதன்மை --squash
-git subtree add --prefix=வழி7 https://github.com/247i/Skype7.git முதன்மை --squash
-git subtree add --prefix=அடிகள்+ https://github.com/247i/StrokesPlus.git முதன்மை --squash
-git subtree add --prefix=தந்தி https://github.com/247i/Telegram.git முதன்மை --squash
-git subtree add --prefix=உரையாசிரியர் https://github.com/247i/Texter.git முதன்மை --squash
-git subtree add --prefix=தட்டச்சுபணி https://github.com/247i/TyperTask முதன்மை --squash
-git subtree add --prefix=சொல்வலை https://github.com/247i/WordWeb.git முதன்மை --squash
-git subtree add --prefix=பணிவெறி https://github.com/247i/Workrave.git முதன்மை --squash
-git subtree add --prefix=சாளரபதிவு https://github.com/247i/WinRegister.git முதன்மை --squash
-git subtree add --prefix=சாளரபாநகல் https://github.com/247i/WinSCP.git முதன்மை --squash
-git subtree add --prefix=ௐஅமபிபி https://github.com/247i/XAMPP.git முதன்மை --squash
+- git subtree add --prefix=.பிணை07-64 https://github.com/247i/.net07-64 முதன்மை --squash
+- git subtree add --prefix=.பிணை08-64 https://github.com/247i/.net08-64 முதன்மை --squash
+- git subtree add --prefix=.பிணை09-64 https://github.com/247i/.net09-64 முதன்மை --squash
+- git subtree add --prefix=.பிணை10-64 https://github.com/247i/.net10-64 முதன்மை --squash
+- git subtree add --prefix=.பிணை11-64 https://github.com/247i/.net11-64 முதன்மை --squash
+- git subtree add --prefix=7ஃ-64 https://github.com/247i/7z-64  முதன்மை --squash
+- git subtree add --prefix=ஆஇஊஇ-64 https://github.com/247i/AIMP-64  முதன்மை --squash
+- git subtree add --prefix=ஆடாசிட்டி-64 https://github.com/247i/AudaCity-64  முதன்மை --squash
+- git subtree add --prefix=அழகி https://github.com/247i/Azhagi.git முதன்மை --squash
+- git subtree add --prefix=தசைஉரை https://github.com/247i/Beeftext முதன்மை --squash
+- git subtree add --prefix=திரைப்பலகதுடிப்பு https://github.com/247i/DesktopTicker.git முதன்மை --squash
+- git subtree add --prefix=அகராதிகாம் https://github.com/247i/Dicom.git முதன்மை --squash
+- git subtree add --prefix=மேற்படியே https://github.com/247i/Ditto.git முதன்மை --squash
+- git subtree add --prefix=டிஒத்திசை https://github.com/247i/DSynchronize.git முதன்மை --squash
+- git subtree add --prefix=எல்லாம் https://github.com/247i/Everything.git முதன்மை --squash
+- git subtree add --prefix=உரைவிரிவாக்கி https://github.com/247i/Espanso.git முதன்மை --squash
+- git subtree add --prefix=ஊட்டிஉருளை https://github.com/247i/FeedRoller.git முதன்மை --squash
+- git subtree add --prefix=இனியதமிழ் https://github.com/247i/IniyaTamil.git முதன்மை --squash
+- git subtree add --prefix=குறள் https://github.com/247i/Kural.git முதன்மை --squash
+- git subtree add --prefix=இலக்கியவாதி https://github.com/247i/Listary.git முதன்மை --squash
+- git subtree add --prefix=சொற்றொடர்வெளிப்படுத்து https://github.com/247i/PhraseExpress.git முதன்மை --squash
+- git subtree add --prefix=பொருள் https://github.com/247i/Porul.git முதன்மை --squash
+- git subtree add --prefix=வழி https://github.com/247i/Skype.git முதன்மை --squash
+- git subtree add --prefix=வழி7 https://github.com/247i/Skype7.git முதன்மை --squash
+- git subtree add --prefix=அடிகள்+ https://github.com/247i/StrokesPlus.git முதன்மை --squash
+- git subtree add --prefix=தந்தி https://github.com/247i/Telegram.git முதன்மை --squash
+- git subtree add --prefix=உரையாசிரியர் https://github.com/247i/Texter.git முதன்மை --squash
+- git subtree add --prefix=தட்டச்சுபணி https://github.com/247i/TyperTask முதன்மை --squash
+- git subtree add --prefix=சொல்வலை https://github.com/247i/WordWeb.git முதன்மை --squash
+- git subtree add --prefix=பணிவெறி https://github.com/247i/Workrave.git முதன்மை --squash
+- git subtree add --prefix=சாளரபதிவு https://github.com/247i/WinRegister.git முதன்மை --squash
+- git subtree add --prefix=சாளரபாநகல் https://github.com/247i/WinSCP.git முதன்மை --squash
+- git subtree add --prefix=ௐஅமபிபி https://github.com/247i/XAMPP.git முதன்மை --squash
 
 
 
