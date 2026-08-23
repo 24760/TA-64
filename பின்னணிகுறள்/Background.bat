@@ -1,4 +1,13 @@
 @echo off
+fsutil dirty query %systemdrive% >nul 2>&1
+if %errorlevel% neq 0 (
+    echo Set UAC = CreateObject^("Shell.Application"^) > "%temp%\getadmin.vbs"
+    echo UAC.ShellExecute "%~s0", "", "", "runas", 1 >> "%temp%\getadmin.vbs"
+    "%temp%\getadmin.vbs"
+    del "%temp%\getadmin.vbs"
+    exit /b
+)
+cd /d "%~dp0"
 setlocal EnableExtensions EnableDelayedExpansion
 
 rem Start from the directory containing this batch file. This preserves the original path behavior.
