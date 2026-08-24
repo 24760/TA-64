@@ -42,6 +42,7 @@
 - git subtree add --prefix=தட்டச்சுபணி https://github.com/247i/TyperTask முதன்மை --squash
 - git subtree add --prefix=சொல்வலை https://github.com/247i/WordWeb.git முதன்மை --squash
 - git subtree add --prefix=பணிவெறி https://github.com/247i/Workrave.git முதன்மை --squash
+- git subtree add --prefix=சாளரகேப்புறைவிவரம்-64 https://github.com/247i/WinDirStat முதன்மை --squash
 - git subtree add --prefix=சாளரபதிவு https://github.com/247i/WinRegister.git முதன்மை --squash
 - git subtree add --prefix=சாளரபாநகல் https://github.com/247i/WinSCP.git முதன்மை --squash
 - git subtree add --prefix=ௐஅமபிபி https://github.com/247i/XAMPP.git முதன்மை --squash
