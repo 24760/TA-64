@@ -9,6 +9,7 @@
 - git subtree add --prefix=.பிணை11-64 https://github.com/247i/.net11-64 முதன்மை --squash
 - git subtree add --prefix=7ஃ-64 https://github.com/247i/7z-64  முதன்மை --squash
 - git subtree add --prefix=ஆஇஊஇ-64 https://github.com/247i/AIMP-64  முதன்மை --squash
+- git subtree add --prefix=அந்தோமறுபெயரிடு https://github.com/247i/AntRenamer முதன்மை --squash
 - git subtree add --prefix=விண்உவவெஅ https://github.com/247i/AstroGrep  முதன்மை --squash
 - git subtree add --prefix=ஆடாசிட்டி-64 https://github.com/247i/AudaCity-64  முதன்மை --squash
 - git subtree add --prefix=அழகி https://github.com/247i/Azhagi முதன்மை --squash
