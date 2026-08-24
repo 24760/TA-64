@@ -32,6 +32,7 @@
 - git subtree add --prefix=வழி https://github.com/247i/Skype.git முதன்மை --squash
 - git subtree add --prefix=வழி7 https://github.com/247i/Skype7.git முதன்மை --squash
 - git subtree add --prefix=அடிகள்+ https://github.com/247i/StrokesPlus.git முதன்மை --squash
+- git subtree add --prefix=சுமத்ராஎஆவ https://github.com/247i/SumatraPDF முதன்மை --squash
 - git subtree add --prefix=தந்தி https://github.com/247i/Telegram.git முதன்மை --squash
 - git subtree add --prefix=உரையாசிரியர் https://github.com/247i/Texter.git முதன்மை --squash
 - git subtree add --prefix=தட்டச்சுபணி https://github.com/247i/TyperTask முதன்மை --squash
