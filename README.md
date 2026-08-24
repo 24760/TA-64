@@ -36,7 +36,7 @@
 - git subtree add --prefix=உரையாசிரியர் https://github.com/247i/Texter.git முதன்மை --squash
 - git subtree add --prefix=தட்டச்சுபணி https://github.com/247i/TyperTask முதன்மை --squash
 - git subtree add --prefix=குறிப்பு10 https://github.com/247i/Tipp10 முதன்மை --squash
-- git subtree add --prefix=தோனி-64 git clone --depth 1 https://github.com/247i/Thonny-64 முதன்மை --squash
+- git subtree add --prefix=தோனி-64 https://github.com/247i/Thonny-64 முதன்மை --squash
 - git subtree add --prefix=சொல்வலை https://github.com/247i/WordWeb.git முதன்மை --squash
 - git subtree add --prefix=பணிவெறி https://github.com/247i/Workrave.git முதன்மை --squash
 - git subtree add --prefix=சாளரபதிவு https://github.com/247i/WinRegister.git முதன்மை --squash
