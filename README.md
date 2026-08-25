@@ -41,7 +41,7 @@
 - git subtree add --prefix=தட்டச்சுவேகம் https://github.com/247i/TypeFaster முதன்மை --squash
 - git subtree add --prefix=தட்டச்சுபணி https://github.com/247i/TyperTask முதன்மை --squash
 - git subtree add --prefix=சொல்வலை https://github.com/247i/WordWeb.git முதன்மை --squash
-- git subtree add --prefix=பணிவெறி https://github.com/247i/Workrave.git முதன்மை --squash
+- git subtree add --prefix=பணிவெறி https://github.com/247i/Workrave முதன்மை --squash
 - git subtree add --prefix=சாளரகேப்புறைவிவரம்-64 https://github.com/247i/WinDirStat-64 முதன்மை --squash
 - git subtree add --prefix=சாளரபதிவு https://github.com/247i/WinRegister.git முதன்மை --squash
 - git subtree add --prefix=சாளரபாநகல் https://github.com/247i/WinSCP.git முதன்மை --squash
@@ -69,3 +69,4 @@ git subtree pull --prefix=அழகி https://github.com/247i/Azhagi.git மு
 
 # நீங்கள் பிரதான ரிப்போசிட்டரியில் உள்ள அழகி+ ஃபோல்டருக்குள் வேலை செய்து கமிட் செய்த மாற்றங்களை அசல் லிங்கிற்கு அனுப்ப
 git subtree push --prefix=அழகி https://github.com/247i/Azhagi.git முதன்மை
+git subtree push --prefix=பணிவெறி https://github.com/247i/Workrave முதன்மை
