@@ -23,6 +23,8 @@
 - git subtree add --prefix=எல்லாம் https://github.com/247i/Everything-64 முதன்மை --squash
 - git subtree add --prefix=உரைவிரிவாக்கி https://github.com/247i/Espanso.git முதன்மை --squash
 - git subtree add --prefix=ஊட்டிஉருளை https://github.com/247i/FeedRoller.git முதன்மை --squash
+- git subtree add --prefix=அறிவிலி.நீட்டி https://github.com/247i/Git.Ext முதன்மை --squash
+- git subtree add --prefix=அறிவிலி-64 https://github.com/247i/Git-64 முதன்மை --squash
 - git subtree add --prefix=இனியதமிழ் https://github.com/247i/IniyaTamil.git முதன்மை --squash
 - git subtree add --prefix=குறள் https://github.com/247i/Kural.git முதன்மை --squash
 - git subtree add --prefix=இலக்கியவாதி https://github.com/247i/Listary.git முதன்மை --squash
