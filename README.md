@@ -32,6 +32,7 @@
 - git subtree add --prefix=குகூகூ-64 https://github.com/247i/NPP-64 முதன்மை --squash
 - git subtree add --prefix=சொற்றொடர்வெளிப்படுத்து https://github.com/247i/PhraseExpress.git முதன்மை --squash
 - git subtree add --prefix=பொருள் https://github.com/247i/Porul.git முதன்மை --squash
+- git subtree add --prefix=பலதொலை https://github.com/247i/mRemoteNG முதன்மை --squash
 - git subtree add --prefix=வானொலிஉறுதி https://github.com/247i/RadioSure முதன்மை --squash
 - git subtree add --prefix=அகக்கருவிகள்-64 https://github.com/247i/SIT-64 முதன்மை --squash
 - git subtree add --prefix=கூர்உருவாக்கி https://github.com/247i/SharpDevelop முதன்மை --squash
