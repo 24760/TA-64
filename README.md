@@ -46,7 +46,7 @@
 - git subtree add --prefix=சாளரபதிவு https://github.com/247i/WinRegister.git முதன்மை --squash
 - git subtree add --prefix=சாளரபாநகல் https://github.com/247i/WinSCP.git முதன்மை --squash
 - git subtree add --prefix=ௐஅமபிபி https://github.com/247i/XAMPP.git முதன்மை --squash
-
+- git subtree add --prefix=ஃஎண் https://github.com/247i/Zint முதன்மை --squash
 
 
 	Rem git clone --depth 1 https://github.com/247i/Celestia-64 விண்ணுலகம்-64
