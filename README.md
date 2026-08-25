@@ -48,7 +48,6 @@
 - git subtree add --prefix=ௐஅமபிபி https://github.com/247i/XAMPP.git முதன்மை --squash
 - git subtree add --prefix=ஃஎண் https://github.com/247i/Zint முதன்மை --squash
 
-
 	Rem git clone --depth 1 https://github.com/247i/Celestia-64 விண்ணுலகம்-64
 	Rem git clone --depth 1 https://github.com/247i/CherryTree-64 உரை_செர்ரிமரம்-64
 	Rem git clone --depth 1 https://github.com/247i/CodeBlocks-64 உரை_குறியீடுதொகுதிகள்-64
