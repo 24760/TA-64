@@ -31,6 +31,7 @@
 - git subtree add --prefix=பொருள் https://github.com/247i/Porul.git முதன்மை --squash
 - git subtree add --prefix=வானொலிஉறுதி https://github.com/247i/RadioSure முதன்மை --squash
 - git subtree add --prefix=அகக்கருவிகள்-64 https://github.com/247i/SIT-64 முதன்மை --squash
+- git subtree add --prefix=கூர்உருவாக்கி https://github.com/247i/SharpDevelop முதன்மை --squash
 - git subtree add --prefix=மூலஅறிவிலி https://github.com/247i/SourceGit முதன்மை --squash
 - git subtree add --prefix=அடிகள்+ https://github.com/247i/StrokesPlus.git முதன்மை --squash
 - git subtree add --prefix=சுமத்ராஎஆவ https://github.com/247i/SumatraPDF முதன்மை --squash
