@@ -26,7 +26,8 @@
 - git subtree add --prefix=ஊட்டிஉருளை https://github.com/247i/FeedRoller.git முதன்மை --squash
 - git subtree add --prefix=அறிவிலி.நீட்டி https://github.com/247i/Git.Ext முதன்மை --squash
 - git subtree add --prefix=அறிவிலி-64 https://github.com/247i/Git-64 முதன்மை --squash
-- git subtree add --prefix=இனியதமிழ் https://github.com/247i/IniyaTamil.git முதன்மை --squash
+- git subtree add --prefix=உவவெளிசாளரம்-64 https://github.com/247i/grepWin-64 முதன்மை --squash
+- git subtree add --prefix=இனியதமிழ் https://github.com/247i/IniyaTamil முதன்மை --squash
 - git subtree add --prefix=குறள் https://github.com/247i/Kural.git முதன்மை --squash
 - git subtree add --prefix=இலக்கியவாதி https://github.com/247i/Listary.git முதன்மை --squash
 - git subtree add --prefix=குகூகூ-64 https://github.com/247i/NPP-64 முதன்மை --squash
