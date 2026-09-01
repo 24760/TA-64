@@ -15,7 +15,6 @@
 - git subtree add --prefix=அழகி https://github.com/247i/Azhagi முதன்மை --squash
 - git subtree add --prefix=தசைஉரை https://github.com/247i/Beeftext முதன்மை --squash
 - git subtree add --prefix=பின்னணிகுறள் https://github.com/247i/BGKural முதன்மை --squash
-- git subtree add --prefix=சிஉருவாக்கு-64 https://github.com/247i/cmake-64 முதன்மை --squash
 - git subtree add --prefix=திரைப்பலகதுடிப்பு https://github.com/247i/DesktopTicker முதன்மை --squash
 - git subtree add --prefix=வளர்சி https://github.com/247i/DevC முதன்மை --squash
 - git subtree add --prefix=சித்திரம் https://github.com/247i/Dia முதன்மை --squash
