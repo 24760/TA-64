@@ -60,7 +60,6 @@
 	Rem git clone --depth 1 https://github.com/247i/CppCheck-64 சிகூகூசரிபார்-64
 	Rem git clone --depth 1 https://github.com/247i/CudaText-64 உரை_குடாஉரை-64
 	Rem git clone --depth 1 https://github.com/247i/Ditto-64 தட்டு_மேற்படியே-64
-	Rem git clone --depth 1 https://github.com/247i/FileZilla-64
 	Rem git clone --depth 1 https://github.com/247i/Git-64 சூழல்பட்டி_அறிவிலி-64
 	Rem git clone --depth 1 https://github.com/247i/Geany-64 உரை_மேதை-64
 	Rem git clone --depth 1 https://github.com/247i/NPP-64 உரை_குகூகூ-64
