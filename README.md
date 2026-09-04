@@ -12,17 +12,13 @@
 - git subtree add --prefix=Espanso https://github.com/247i/Espanso முதன்மை --squash
 - git subtree add --prefix=Texter https://github.com/247i/Texter முதன்மை --squash
 - git subtree add --prefix=BGKural https://github.com/247i/BGKural முதன்மை --squash
-
 - git subtree add --prefix=DesktopTicker https://github.com/247i/DesktopTicker முதன்மை --squash
 - git subtree add --prefix=FeedRoller https://github.com/247i/FeedRoller முதன்மை --squash
-
 - git subtree add --prefix=Dia https://github.com/247i/Dia முதன்மை --squash
 - git subtree add --prefix=Dicom https://github.com/247i/Dicom முதன்மை --squash
 - git subtree add --prefix=Ditto-64 https://github.com/247i/Ditto-64 முதன்மை --squash
 - git subtree add --prefix=DSynchronize https://github.com/247i/DSynchronize முதன்மை --squash
 - git subtree add --prefix=Everything-64 https://github.com/247i/Everything-64 முதன்மை --squash
-
-
 - git subtree add --prefix=அறிவிலி.நீட்டி https://github.com/247i/Git.Ext முதன்மை --squash
 - git subtree add --prefix=அறிவிலி-64 https://github.com/247i/Git-64 முதன்மை --squash
 - git subtree add --prefix=SourceGit https://github.com/247i/SourceGit முதன்மை --squash
@@ -33,8 +29,8 @@
 - git subtree add --prefix=குகூகூ-64 https://github.com/247i/NPP-64 முதன்மை --squash
 - git subtree add --prefix=சொற்றொடர்வெளிப்படுத்து https://github.com/247i/PhraseExpress.git முதன்மை --squash
 - git subtree add --prefix=பொருள் https://github.com/247i/Porul.git முதன்மை --squash
-- git subtree add --prefix=பலதொலை https://github.com/247i/mRemoteNG முதன்மை --squash
-- git subtree add --prefix=வானொலிஉறுதி https://github.com/247i/RadioSure முதன்மை --squash
+- git subtree add --prefix=mRemoteNG https://github.com/247i/mRemoteNG முதன்மை --squash
+- git subtree add --prefix=RadioSure https://github.com/247i/RadioSure முதன்மை --squash
 - git subtree add --prefix=அகக்கருவிகள்-64 https://github.com/247i/SIT-64 முதன்மை --squash
 
 - git subtree add --prefix=அடிகள்+ https://github.com/247i/StrokesPlus.git முதன்மை --squash
